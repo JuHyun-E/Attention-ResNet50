@@ -1,7 +1,7 @@
 # Attention in Neural Networks
 
 Base-architecture : ResNet 50   
-Dataset : CIFAR-100   
+Dataset : CIFAR-100 (https://www.cs.toronto.edu/~kriz/cifar.html)   
 ***
 The key idea is to emphasize relevant information and suppress the rest.
 - In neural entworks, information is compressed in the form of feature map.
