@@ -15,10 +15,10 @@ Generalizable attention module
 - Increase a little learnable parameters
 ***
 1. Implement attention module
-2. Report the followings for each of it and compare them - Numbers to REport
-  1) Top-1 and Top-5 Errors   
+2. Report the followings for each of it and compare them - Numbers to Report
+  * Top-1 and Top-5 Errors   
     - of the baseline   
     - with channel attention   
-  2) Parameters and Flops   
+  * Parameters and Flops   
 3. Analyze the learned features using Grad-CAM method (http://arxiv.org/abs/1610.02391)
 4. New createive Idea
