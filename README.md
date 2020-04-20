@@ -1,7 +1,7 @@
 # Attention in Neural Networks
 
-Base-architecture : ResNet 50
-Dataset : CIFAR-100
+Base-architecture : ResNet 50   
+Dataset : CIFAR-100   
 ***
 The key idea is to emphasize relevant information and suppress the rest.
 - In neural entworks, information is compressed in the form of feature map.
@@ -16,9 +16,9 @@ Generalizable attention module
 ***
 1. Implement attention module
 2. Report the followings for each of it and compare them - Numbers to REport
-  1) Top-1 and Top-5 Errors
-    - of the baseline
-    - with channel attention
-  2) Parameters and Flops
+  1) Top-1 and Top-5 Errors   
+    - of the baseline   
+    - with channel attention   
+  2) Parameters and Flops   
 3. Analyze the learned features using Grad-CAM method (http://arxiv.org/abs/1610.02391)
 4. New createive Idea
